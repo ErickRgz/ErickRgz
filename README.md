@@ -9,19 +9,19 @@
 ## 💻 Linguagens
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,kotlin,html,css" />
 </p>
 
 ## ⚙️ Frameworks & Banco de Dados
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,oracle" />
+  <img src="https://skillicons.dev/icons?i=spring,bootstrap,oracle,mysql" />
 </p>
 
 ## 🛠️ Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,powershell" />
 </p>
 
 ---
