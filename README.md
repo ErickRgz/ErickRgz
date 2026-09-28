@@ -15,27 +15,26 @@
 ## ⚙️ Frameworks & Banco de Dados
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,bootstrap,oracle,mysql" />
+  <img src="https://skillicons.dev/icons?i=spring,bootstrap,mysql" />
 </p>
 
 ## 🛠️ Ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,powershell" />
+  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode" />
 </p>
 
 ---
 
 ## 📌 Projetos
 
-🎬 **Screenmatch** — Projeto Java focado em POO
-
-💰 **GrowRGS** — Projeto de Fintech desenvolvido na FIAP
-
-🌐 **Portfolio** — Meu portfólio pessoal
+🎬 [**Screenmatch**](https://github.com/ErickRgz/screenmatch) — Projeto Java focado em POO
+💰 [**GrowRGS**](https://github.com/ErickRgz/tarefas-ebac-erick-) — Projeto de Fintech desenvolvido na FIAP
+🌐 [**Portfolio**](https://github.com/ErickRgz/GrowRgs-fintech) — Meu portfólio pessoal
 
 ---
 
 ## 📫 Contato
 
-[LinkedIn](https://www.linkedin.com/in/erick-rodrigues-6657432a7/)
+✉️ **E-mail:** [erickmanoel.dev@gmail.com](mailto:erickmanoel.dev@gmail.com)  
+💼 **LinkedIn:** [Erick Rodrigues](https://www.linkedin.com/in/erick-rodrigues-6657432a7/)
