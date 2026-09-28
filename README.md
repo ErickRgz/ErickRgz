@@ -30,7 +30,7 @@
 
 🎬 [**Screenmatch**](https://github.com/ErickRgz/screenmatch) — Projeto Java focado em POO
 💰 [**GrowRGS**](https://github.com/ErickRgz/GrowRgs-fintech) — Projeto de Fintech desenvolvido na FIAP
-🌐 [**Portfolio**](https://github.com/ErickRgz/tarefas-ebac-erick-) — Tarefas do meu curso de Especialização em Java pela Ebac
+🌐 [**Ebac**](https://github.com/ErickRgz/tarefas-ebac-erick-) — Tarefas do meu curso de Especialização em Java pela Ebac
 
 ---
 
