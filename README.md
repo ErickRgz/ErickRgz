@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Erick Rodrigues
 
-<!--
-**ErickRgz/ErickRgz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor de Software em formação  
+🎓 Análise e Desenvolvimento de Sistemas — FIAP  
+🚀 Focado em Java, Backend e desenvolvimento de software
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Linguagens
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css" />
+</p>
+
+## ⚙️ Frameworks & Banco de Dados
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,oracle" />
+</p>
+
+## 🛠️ Ferramentas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode" />
+</p>
+
+---
+
+## 📌 Projetos
+
+🎬 **Screenmatch** — Projeto Java focado em POO
+
+💰 **GrowRGS** — Projeto de Fintech desenvolvido na FIAP
+
+🌐 **Portfolio** — Meu portfólio pessoal
+
+---
+
+## 📫 Contato
+
+[LinkedIn](https://www.linkedin.com/in/erick-rodrigues-6657432a7/)
